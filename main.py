@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from moduleP import paul
 
 print("hello from Paul in main")
